@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "practise-react-responsive-website",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://lukasz1598.github.io/practise-react-responsive-website/"
+  }
 }
