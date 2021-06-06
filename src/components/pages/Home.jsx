@@ -2,7 +2,10 @@ import '../../App.css'
 import HeroSection from '../HeroSection';
 const Home = () => {
     return (
-        <HeroSection/>
+        <div>
+            <HeroSection/>
+            {/* <div style={{height: '300vh'}}></div> */}
+        </div>
     );
 }
  
