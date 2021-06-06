@@ -1,10 +1,13 @@
 import '../../App.css'
+import Cards from '../Cards';
+import Footer from '../Footer';
 import HeroSection from '../HeroSection';
 const Home = () => {
     return (
         <div>
             <HeroSection/>
-            {/* <div style={{height: '300vh'}}></div> */}
+            <Cards/>
+            <Footer />
         </div>
     );
 }

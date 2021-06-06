@@ -4,7 +4,8 @@ import './HeroSection.css';
 const HeroSection = () => {
     return ( 
         <div className="hero-container">
-            {/* <video src='video-1.mp4' autoPlay loop muted ></video> */}
+            {/* <video className="hero-background" src='/videos/video-2.mp4' autoPlay loop muted /> */}
+            <img className="hero-background" src='/images/img-home.jpg' autoPlay loop muted />
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for?</p>
             <div className="hero-btns">
