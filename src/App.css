@@ -45,3 +45,27 @@
     font-size: 100px;
     height: 100vh;
 }
+
+@media screen and (max-width: 960px) {
+    .services,
+    .products,
+    .sign-up {
+        font-size: 80px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .services,
+    .products,
+    .sign-up {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .services,
+    .products,
+    .sign-up {
+        font-size: 40px;
+    }
+}
